@@ -1,30 +1,30 @@
 ---
-title: Chronologies du projet
-description: mappage des cours front-end avec des cours de ligue
+title: Calendriers de projet
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: bea72a3b-24d9-4c19-9032-0b66a3393e29
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Chronologies du projet
+# Calendriers de projet
 
-Les deux chemins d’apprentissage Workfront 1 suivants,
+Les deux parcours de formation Workfront One suivants :
 
-* Principes de planification de la nouvelle expérience Workfront, Partie 3 : Gestion d’un projet
-* Principes de planification de la nouvelle expérience Workfront, Partie 4 : Fermeture d’un projet
-* Chronologies du projet
+* Principes de planification pour la nouvelle expérience Workfront, Partie 3 : gérer un projet
+* Principes de planification pour la nouvelle expérience Workfront, Partie 4 : fermer un projet
+* Calendriers de projet
 
-ont été regroupés en un seul cours d&#39;Experience League, [Gérer et fermer un projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners){target="_blank"}.
+ont été regroupés dans un seul et même cours Experience League, [Gérer et fermer un projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners){target="_blank"}.
 
-Le nouveau cours Experience League couvre les mêmes objectifs d’apprentissage que les cursus précédents et a été optimisé dans la mesure du possible pour offrir une expérience d’apprentissage complète.  Explorez la bibliothèque complète des cours, de la documentation, des tutoriels et des communautés Workfront sur Experience League.
+Le nouveau cours Experience League couvre les mêmes objectifs de formation que les parcours de formation précédents et, lorsque cela a été possible, a été optimisé pour offrir une expérience de formation complète.  Explorez la bibliothèque complète de cours, documentation, tutoriels et communautés relatifs à Workfront sur Experience League.
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

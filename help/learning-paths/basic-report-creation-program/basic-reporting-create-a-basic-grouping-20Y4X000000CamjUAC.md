@@ -1,30 +1,30 @@
 ---
-title: Créer un groupement de base
-description: mappage des cours front-end avec des cours de ligue
+title: Créer un regroupement de base
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: 7b21ba0d-106c-4e8b-abdc-72360649dc03
 source-git-commit: 904ab74ed838466dc5b0bb25da451632e270c882
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Créer un groupement de base
+# Créer un regroupement de base
 
-Les quatre chemins d’apprentissage Workfront One,
+Les quatre parcours de formation Workfront One suivants :
 
 * Éléments et composants de création de rapports
 * Créer un filtre de base
-* Créer un groupement de base
+* Créer un regroupement de base
 * Créer une vue de base
 
-ont été regroupés en un seul cours d&#39;Experience League, [Éléments de création de rapports de base](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting){target="_blank"}.
+ont été regroupés dans un seul et même cours Experience League, [Éléments de création de rapports de base](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting){target="_blank"}.
 
-Le nouveau cours Experience League couvre les mêmes objectifs d’apprentissage que les cursus précédents et a été optimisé dans la mesure du possible pour offrir une expérience d’apprentissage complète.  Explorez la bibliothèque complète des cours, de la documentation, des tutoriels et des communautés Workfront sur Experience League.
+Le nouveau cours Experience League couvre les mêmes objectifs de formation que les parcours de formation précédents et, lorsque cela a été possible, a été optimisé pour offrir une expérience de formation complète.  Explorez la bibliothèque complète de cours, documentation, tutoriels et communautés relatifs à Workfront sur Experience League.
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

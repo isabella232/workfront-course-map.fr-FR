@@ -1,25 +1,25 @@
 ---
-title: Configuration des problèmes
-description: mappage des cours front-end avec des cours de ligue
+title: Configurer des problèmes
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: ad2e0706-eecd-4b27-8609-6279855eb639
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Configuration des problèmes
+# Configurer des problèmes
 
-Le chemin d’apprentissage Workfront One de la configuration des problèmes est maintenant mappé aux tutoriels Experience League Workfront nouvellement migrés et optimisés.  Toutes les mêmes informations sont capturées dans les nouveaux tutoriels. Accédez au [Tutoriel Créer un état de problème](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html).
+Le parcours de formation Workfront One Configuration des problèmes est désormais mappé aux tutoriels Workfront Experience League nouvellement migrés et optimisés.  Toutes les informations identiques sont capturées dans les nouveaux tutoriels. Accédez au [tutoriel Créer un statut de problème](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr).
 
-Le nouveau tutoriel Experience League couvre les mêmes objectifs d’apprentissage que le parcours d’apprentissage précédent. Il a été optimisé dans la mesure du possible afin de fournir une expérience d’apprentissage complète.  Explorez la bibliothèque complète des cours, de la documentation, des tutoriels et des communautés Workfront sur Experience League.
+Le nouveau tutoriel Experience League couvre les mêmes objectifs de formation que le parcours de formation précédent et, lorsque cela a été possible, a été optimisé afin de fournir une expérience de formation complète.  Explorez la bibliothèque complète de cours, documentation, tutoriels et communautés relatifs à Workfront sur Experience League.
 
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

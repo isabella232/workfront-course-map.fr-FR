@@ -1,23 +1,23 @@
 ---
-title: Présentation des portefeuilles
-description: mappage des cours front-end avec des cours de ligue
+title: Présentation des portfolios
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: fdfa0361-dbc4-4ed6-8be1-9c4e7b53a1b3
 source-git-commit: 9ce0f9d84400f016f7478719a308e22e54513515
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des portefeuilles
+# Présentation des portfolios
 
-La variable *Présentation des portefeuilles* Le chemin d’apprentissage Workfront One a été migré vers [Portfolios](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.portfolios){target="_blank"} sur Experience League
+Le parcours de formation Workfront One *Présentation des portfolios* a été migré vers [Portfolios](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.portfolios){target="_blank"} sur Experience League.
 
-Le nouveau cours d’Experience League couvre les mêmes objectifs d’apprentissage que le cursus d’apprentissage précédent et a été optimisé dans la mesure du possible pour offrir une expérience d’apprentissage complète.  Explorez la bibliothèque complète des cours, de la documentation, des tutoriels et des communautés Workfront sur Experience League.
+Le nouveau cours Experience League couvre les mêmes objectifs de formation que le parcours de formation précédent et, lorsque cela a été possible, a été optimisé pour offrir une expérience de formation complète.  Explorez la bibliothèque complète de cours, documentation, tutoriels et communautés relatifs à Workfront sur Experience League.
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

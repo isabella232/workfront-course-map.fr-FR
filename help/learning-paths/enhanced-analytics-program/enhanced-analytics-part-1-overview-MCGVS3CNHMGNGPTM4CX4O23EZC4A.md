@@ -1,24 +1,24 @@
 ---
-title: Amélioration d’Analytics - Partie 1 - Présentation
-description: mappage des cours front-end avec des cours de ligue
+title: Analytics amélioré Partie 1 – Vue d’ensemble
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: 86a172f3-b5a9-4211-b861-cd5159ba9bfa
 source-git-commit: cc8908472e50ab95deb613720fdbdc4dba9c02cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Amélioration d’Analytics - Partie 1 - Présentation
+# Analytics amélioré Partie 1 – Vue d’ensemble
 
 
-La variable *Amélioration d’Analytics - Partie 1 - Présentation* Le chemin d’apprentissage de Workfont One a été migré vers [Analytics - partie 1 - aperçu](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.analytics){target="_blank"} sur Experience League
+Le parcours de formation Workfront One *Analytics amélioré Partie 1 – Vue d’ensemble* a été migré vers [Analytics partie 1 – Vue d’ensemble](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.analytics){target="_blank"} sur Experience League.
 
-Le nouveau cours d’Experience League couvre les mêmes objectifs d’apprentissage que le parcours d’apprentissage précédent et a été optimisé dans la mesure du possible afin de fournir une expérience d’apprentissage complète.  Explorez la bibliothèque complète des cours, de la documentation, des tutoriels et des communautés Workfront sur Experience League.
+Le nouveau cours Experience League couvre les mêmes objectifs de formation que le parcours de formation précédent et, lorsque cela a été possible, a été optimisé afin de fournir une expérience de formation complète.  Explorez la bibliothèque complète de cours, documentation, tutoriels et communautés relatifs à Workfront sur Experience League.
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

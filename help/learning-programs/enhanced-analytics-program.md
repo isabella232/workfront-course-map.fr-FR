@@ -1,17 +1,17 @@
 ---
 title: Analytics amélioré
-description: mappage des cours front-end avec des cours de ligue
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: a3aaa1f8-047e-4d5b-9740-3526a378689d
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Analytics amélioré
 
-Nous sommes actuellement en train de reconstruire le contenu de ce cours pour Experience League.  Nous nous excusons pour tout désagrément.  Nous espérons que le contenu de ce cours sera bientôt en ligne.
+Nous sommes actuellement en train de recréer le contenu de ce cours pour Experience League.  Nous nous excusons pour la gêne occasionnée.  Nous prévoyons de mettre prochainement le contenu de ce cours en ligne.
 
 <!---Learn how to manage your current work and plan future work more accurately by identifying data trends.
 
@@ -94,7 +94,7 @@ Nous sommes actuellement en train de reconstruire le contenu de ce cours pour Ex
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

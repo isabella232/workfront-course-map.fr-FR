@@ -1,71 +1,71 @@
 ---
-title: Principes fondamentaux de l’administrateur pour la nouvelle expérience Workfront
-description: mappage des cours front-end avec des cours de ligue
+title: Principes fondamentaux de l’administrateur ou l’administratrice pour la nouvelle expérience Workfront
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: b4033c37-d8a5-469a-abf7-a09ab47a1ede
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Principes fondamentaux de l’administrateur pour la nouvelle expérience Workfront
+# Principes fondamentaux de l’administrateur ou l’administratrice pour la nouvelle expérience Workfront
 
-Que vous mettiez en oeuvre un nouveau système ou que vous fassiez des mises à jour à un système existant, vous devez pouvoir naviguer dans l’océan des paramètres. Découvrez comment configurer des utilisateurs et optimiser le travail avec les paramètres du système.
+Que vous mettiez en œuvre un nouveau système ou que vous mettiez à jour à un système existant, vous devez pouvoir naviguer dans la multitude de paramètres. Découvrez comment configurer des utilisateurs et utilisatrices et optimiser le travail avec les paramètres système.
 
 >[!IMPORTANT]
 >
->**Notez que cet ancien programme d’apprentissage Workfront One est maintenant mappé aux cours Workfront Experience League récemment migrés et optimisés.  La nouvelle structure couvre tous les mêmes objectifs d’apprentissage.**.
+>**Notez que cet ancien programme de formation Workfront One est désormais mappé aux cours Workfront Experience League nouvellement migrés et optimisés.  La nouvelle structure couvre tous les mêmes objectifs de formation**.
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin">
-      <img alt="Prise en main de Workfront pour les administrateurs système" src="https://cdn.experienceleague.adobe.com/thumb/get-started-with-workfront-for-system-administrators.png"/>
+      <img alt="Prise en main de Workfront pour les administrateurs et administratrices système" src="https://cdn.experienceleague.adobe.com/thumb/get-started-with-workfront-for-system-administrators.png"/>
       </a>
       <div>
-         <strong>Prise en main de Workfront pour les administrateurs système</strong></a>
-         <br/><em>44 minutes</em>
+         <strong>Prise en main de Workfront pour les administrateurs et administratrices système</strong></a>
+<br/><em>44 minutes</em>
       </div>
       <p>
         <br/>
-         Découvrez les premières étapes de la configuration des utilisateurs et de l’optimisation de l’expérience utilisateur avec les paramètres système.
+Découvrez les premières étapes de la configuration des utilisateurs et utilisatrices et de l’optimisation de l’expérience client avec les paramètres système.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>   
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin">
-      <img alt="Approfondissez vos connaissances sur les paramètres système pour les administrateurs système" src="https://cdn.experienceleague.adobe.com/thumb/further-your-system-settings-knowledge-for-system-administrators.png"/>
+      <img alt="Approfondir ses connaissances sur les paramètres système pour les administrateurs et administratrices système" src="https://cdn.experienceleague.adobe.com/thumb/further-your-system-settings-knowledge-for-system-administrators.png"/>
       </a>
       <div>
-         <strong>Approfondissez vos connaissances sur les paramètres système pour les administrateurs système</strong></a>
-         <br/><em>1 heure</em>
+         <strong>Approfondir ses connaissances sur les paramètres système pour les administrateurs et administratrices système</strong></a>
+<br/><em>1 heure</em>
       </div>
       <p>
         <br/>
-         En savoir plus sur les paramètres système pour améliorer l’expérience de vos utilisateurs, notamment l’organisation utilisateur, les formulaires personnalisés, les processus et jalons d’approbation et les modèles de mise en page.
+En savoir plus sur les paramètres système pour améliorer l’expérience de vos utilisateurs et utilisatrices, notamment l’organisation des utilisateurs et utilisatrices, les formulaires personnalisés, les processus et jalons d’approbation, et les modèles de disposition.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>
     <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners">
-      <img alt="Une meilleure compréhension de la gestion du travail en tant que planificateur" src="https://cdn.experienceleague.adobe.com/thumb/further-understanding-of-managing-work-as-a-planner.png"/>
+      <img alt="Mieux comprendre la gestion du travail en tant que planificateur et planificatrice" src="https://cdn.experienceleague.adobe.com/thumb/further-understanding-of-managing-work-as-a-planner.png"/>
       </a>
       <div>
-         <strong>Une meilleure compréhension de la gestion du travail en tant que planificateur</strong></a>
-         <br/><em>1 heure, 6 minutes</em>
+         <strong>Mieux comprendre la gestion du travail en tant que planificateur ou planificatrice</strong></a>
+<br/><em>1 heure et 6 minutes</em>
       </div>
       <p>
         <br/>
-         Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous devez savoir plus pour tirer le meilleur parti de Workfront.
+Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous devez connaître quelques points supplémentaires pour tirer le meilleur parti de Workfront.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>
   </tr>
   <tr>
@@ -75,47 +75,47 @@ Que vous mettiez en oeuvre un nouveau système ou que vous fassiez des mises à 
       </a>
       <div>
          <strong>Éléments de création de rapports de base</strong></a>
-         <br/><em>44 minutes</em>
+<br/><em>44 minutes</em>
       </div>
       <p>
         <br/>
-         Les éléments de création de rapports sont les filtres, les vues et les regroupements trouvés dans tous les rapports de liste dans Workfront. En savoir plus à ce sujet vous aidera à créer des rapports et des calendriers personnalisés.
+Les éléments de création de rapports sont les filtres, les vues et les regroupements qui se trouvent dans tous les rapports de liste dans Workfront. En savoir plus sur ceux-ci vous aidera à créer des rapports et des calendriers personnalisés.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting">
-      <img alt="Création de rapports et de tableaux de bord personnalisés" src="https://cdn.experienceleague.adobe.com/thumb/create-custom-reports-and-dashboards.png"/>
+      <img alt="Créer des rapports et des tableaux de bord personnalisés" src="https://cdn.experienceleague.adobe.com/thumb/create-custom-reports-and-dashboards.png"/>
       </a>
       <div>
-         <strong>Création de rapports et de tableaux de bord personnalisés</strong></a>
-         <br/><em>47 minutes</em>
+         <strong>Créer des rapports et des tableaux de bord personnalisés</strong></a>
+<br/><em>47 minutes</em>
       </div>
       <p>
         <br/>
-         Les rapports sont les fenêtres de vos données. Découvrez comment créer trois types différents de rapports dans Workfront et les utiliser dans les tableaux de bord.
+Les rapports vous permettent de visualiser vos données. Découvrez comment créer trois types de rapports différents dans Workfront et les utiliser dans des tableaux de bord.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting">
-      <img alt="Création d’un calendrier personnalisé" src="https://cdn.experienceleague.adobe.com/thumb/create-a-custom-calendar.png"/>
+      <img alt="Créer un calendrier personnalisé" src="https://cdn.experienceleague.adobe.com/thumb/create-a-custom-calendar.png"/>
       </a>
       <div>
-         <strong>Création d’un calendrier personnalisé</strong></a>
-         <br/><em>9 minutes</em>
+         <strong>Créer un calendrier personnalisé</strong></a>
+<br/><em>9 minutes</em>
       </div>
       <p>
         <br/>
-         Avec un calendrier personnalisé, vous pouvez afficher les dates et les informations directement à partir des projets, tâches et problèmes au format Calendrier.
+Avec un calendrier personnalisé, vous pouvez afficher les dates et les informations directement à partir de projets, tâches et problèmes sous la forme d’un calendrier.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>      
   </tr>
 
@@ -123,7 +123,7 @@ Que vous mettiez en oeuvre un nouveau système ou que vous fassiez des mises à 
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

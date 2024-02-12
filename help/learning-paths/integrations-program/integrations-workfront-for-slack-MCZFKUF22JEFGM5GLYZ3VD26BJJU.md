@@ -1,21 +1,21 @@
 ---
 title: Workfront pour Slack
-description: mappage des cours front-end avec des cours de ligue
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: 4c15a0e2-abe0-4f35-b443-5c5db03a8b08
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Workfront pour Slack
 
-La variable *Workfront pour Slack* Workfont One Learning Path est maintenant mappé aux nouveaux tutoriels Workfront Experience League optimisés et migrés. Toutes les mêmes informations sont capturées dans les nouveaux tutoriels. Accédez au nouvel Experience League [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html), puis recherchez le *Intégrations* Liste dans le volet de navigation de gauche de la page Tutorials.
+Le parcours de formation Workfront One *Workfront pour Slack* est désormais mappé aux tutoriels Workfront Experience League nouvellement migrés et optimisés. Toutes les informations identiques sont capturées dans les nouveaux tutoriels. Accédez aux nouveaux [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr) Experience League, puis recherchez la liste *Intégrations* dans le volet de navigation de gauche de la page Tutoriels.
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

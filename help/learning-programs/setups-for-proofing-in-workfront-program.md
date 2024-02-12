@@ -1,39 +1,39 @@
 ---
-title: Configurations de la vérification dans Workfront pour la nouvelle expérience Workfront
-description: mappage des cours front-end avec des cours de ligue
+title: Configurations de relecture dans Workfront pour la nouvelle expérience Workfront
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: 7d259c4f-b0ec-4bfd-9ae2-91acfa47a5ba
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configurations de la vérification dans Workfront pour la nouvelle expérience Workfront
+# Configurations de relecture dans Workfront pour la nouvelle expérience Workfront
 
-Commencez par la révision et l’approbation numériques Workfront (également appelée vérification) en explorant les avantages et en configurant la vérification pour s’adapter aux workflows de votre projet.
+Commencez par la révision et l’approbation numériques de Workfront (également appelées relecture) en explorant les avantages et en configurant la relecture pour l’adapter aux workflows de votre projet.
 
 >[!IMPORTANT]
 >
->**Notez que cet ancien programme d’apprentissage Workfront One est maintenant mappé au nouveau cours Experience League Workfront migré et optimisé.  La nouvelle structure couvre tous les mêmes objectifs d’apprentissage.**.
+>**Notez que cet ancien programme de formation Workfront One est désormais mappé au cours Workfront Experience League nouvellement migré et optimisé.  La nouvelle structure couvre tous les mêmes objectifs de formation**.
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof">
-      <img alt="Bon à tirer Workfront - Administration et configuration" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
+      <img alt="Workfront Proof – Administration et configuration" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
       </a>
       <div>
-         <strong>Bon à tirer Workfront - Administration et configuration</strong></a>         
-         <br/><em>55 minutes</em>
+         <strong>Workfront Proof – Administration et configuration</strong></a>
+<br/><em>55 minutes</em>
       </div>
       <p>
         <br/>
-         Découvrez comment ajuster les paramètres du BAT, personnaliser les actions et les rapports et configurer des workflows de BAT.
+Découvrez comment ajuster les paramètres de BAT, personnaliser les actions et les rapports, et configurer des workflows de BAT.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>   
   </tr>
 
@@ -41,7 +41,7 @@ Commencez par la révision et l’approbation numériques Workfront (également 
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

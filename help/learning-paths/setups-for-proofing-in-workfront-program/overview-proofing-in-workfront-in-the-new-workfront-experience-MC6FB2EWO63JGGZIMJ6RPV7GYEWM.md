@@ -1,30 +1,30 @@
 ---
-title: Présentation - Vérification dans Workfront dans la nouvelle expérience Workfront
-description: mappage des cours front-end avec des cours de ligue
+title: Vue d’ensemble – Relecture dans Workfront dans la nouvelle expérience Workfront
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: d475118f-2801-4ba6-ba9b-05c130b4aa0b
 source-git-commit: e1850919d89aafd4cee3a0c7e83a98c71bc33382
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation - Vérification dans Workfront dans la nouvelle expérience Workfront
+# Vue d’ensemble – Relecture dans Workfront dans la nouvelle expérience Workfront
 
-Les chemins d’apprentissage Workfront One suivants,
+Les parcours de formation Workfront One suivants :
 
-* Présentation - Vérification dans Workfront dans la nouvelle expérience Workfront
-* Vérifier et approuver les bons à tirer dans la nouvelle expérience Workfront
-* Workfront pour les utilisateurs de la vérification
-* Gestion des révisions et des approbations avec la vérification
+* Vue d’ensemble – Relecture dans Workfront dans la nouvelle expérience Workfront
+* Réviser et approuver des BAT dans la nouvelle expérience Workfront
+* Workfront pour les utilisateurs et utilisatrices de relecture
+* Gérer la révision et les approbations avec la relecture
 
-ont été regroupés en un seul cours d&#39;Experience League, [Bon à tirer de Workfront : passer en revue et approuver le travail](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof){target="_blank"}.
+ont été regroupés dans un seul et même cours Experience League, [BAT Workfront – réviser et approuver le travail](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof){target="_blank"}.
 
-Le nouveau cours Experience League couvre les mêmes objectifs d’apprentissage que les cursus précédents et a été optimisé dans la mesure du possible pour offrir une expérience d’apprentissage complète.  Explorez la bibliothèque complète des cours, de la documentation, des tutoriels et des communautés Workfront sur Experience League.
+Le nouveau cours Experience League couvre les mêmes objectifs de formation que les parcours de formation précédents et, lorsque cela a été possible, a été optimisé pour offrir une expérience de formation complète.  Explorez la bibliothèque complète de cours, documentation, tutoriels et communautés relatifs à Workfront sur Experience League.
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

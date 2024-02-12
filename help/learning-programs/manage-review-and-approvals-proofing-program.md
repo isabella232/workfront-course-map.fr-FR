@@ -1,62 +1,62 @@
 ---
-title: Gestion des révisions et des approbations avec la vérification dans la nouvelle expérience Workfront
-description: mappage des cours front-end avec des cours de ligue
+title: Gérer la révision et les approbations avec la relecture dans la nouvelle expérience Workfront
+description: Mapper des cours Workfront One avec des cours Experience League
 exl-id: 5f653032-ed64-459f-898e-894c31c5ce97
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Gestion des révisions et des approbations avec la vérification dans la nouvelle expérience Workfront
+# Gérer la révision et les approbations avec la relecture dans la nouvelle expérience Workfront
 
-La révision et l’approbation sont une étape nécessaire du processus de création. Découvrez comment automatiser cette étape pour tirer le meilleur parti de vos fonctionnalités de vérification de Workfront.
+La révision et l’approbation sont une étape nécessaire du processus de création. Découvrez comment automatiser cette étape pour tirer le meilleur profit, plus rapidement et efficacement, des fonctions de relecture de Workfront.
 
 >[!IMPORTANT]
 >
->**Notez que cet ancien programme d’apprentissage Workfront One est maintenant mappé aux cours Workfront Experience League récemment migrés et optimisés.  La nouvelle structure couvre tous les mêmes objectifs d’apprentissage.**.
+>**Notez que cet ancien programme de formation Workfront One est désormais mappé aux cours Workfront Experience League nouvellement migrés et optimisés.  La nouvelle structure couvre tous les mêmes objectifs de formation**.
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof">
-      <img alt="Bon à tirer de Workfront : passer en revue et approuver le travail" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof---review-and-approve-work.png"/>
+      <img alt="Workfront Proof – Réviser et approuver le travail" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof---review-and-approve-work.png"/>
       </a>
       <div>
-         <strong>Bon à tirer de Workfront : passer en revue et approuver le travail</strong></a>         
-         <br/><em>39 minutes</em>
+         <strong>Workfront Proof – Réviser et approuver le travail</strong></a>
+<br/><em>39 minutes</em>
       </div>
       <p>
         <br/>
-         Découvrez comment utiliser Workfront BAT en tant que réviseur ou approbateur.
+Découvrez comment utiliser Workfront Proof en tant que réviseur ou réviseuse ou approbateur ou approbatrice.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>   
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof">
-      <img alt="Bon à tirer Workfront - bon à tirer du chargement" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-upload-proofs.png"/>
+      <img alt="Workfront Proof – Charger des BAT" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-upload-proofs.png"/>
       </a>
       <div>
-         <strong>Bon à tirer Workfront - bon à tirer du chargement</strong></a>         
-         <br/><em>40 minutes</em>
+         <strong>Workfront Proof – Charger des BAT</strong></a>
+<br/><em>40 minutes</em>
       </div>
       <p>
         <br/>
-         Découvrez comment télécharger des bons à tirer pour révision et approbation.
+Découvrez comment charger des BAT pour révision et approbation.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Partir en cours</span>
-      </a>
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Accéder au cours</span>
+</a>
    </td>
   </tr>
 </table>
 
 ## Ressources supplémentaires
 
-* [Cours Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Cours Workfront](https://experienceleague.adobe.com/?lang=fr&amp;Solution=Workfront#courses)
+* [Documentation Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=fr)
+* [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr)
 * [Communautés Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
